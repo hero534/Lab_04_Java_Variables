@@ -26,5 +26,21 @@ public class Main {
             System.out.println("The product using doubles of " + doubleOperandA + " " + doubleOperandB + " is " + doubleProduct);
             System.out.println("The difference using doubles of " + doubleOperandB + " " + doubleOperandA + " is " + doubleDifference);
             System.out.println("The quotient using doubles of " + doubleOperandB + " " + doubleOperandA + " is " + doubleQuotient);
+        double lunchCost = 12.50;
+            System.out.println("the cost of my lunch is " + lunchCost);
+        int kidNumber = 2;
+            System.out.println("The number of kids in your family is " + kidNumber);
+        boolean isRaining = false;
+            System.out.println("Is it raining today? " + isRaining);
+        double gasPrice = 3.10;
+            System.out.println("The price of a gallon of gas is " + gasPrice);
+        int favNumber = 4;
+            System.out.println("your favorite number is " + favNumber);
+        double shoeSize = 10.50;
+            System.out.println("Your show size is " + shoeSize);
+        int birthMonth = 7;
+            System.out.println("Your birth month is " + birthMonth);
+        String fullName = "Hunter Goldsmith";
+            System.out.println("Your full name is " + fullName);
     }
 }
